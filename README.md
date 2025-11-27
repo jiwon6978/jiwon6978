@@ -1,7 +1,22 @@
 
 <div align="center">
-  <h1>Welcome to My GitHub</h1>
+  <h1>✨WIN WITH WON✨</h1>
 </div>
+
+```python
+jiwon_profile = {
+  "name": "Jiwon",
+  "birth": 1993.11.10
+  "role": "Backend Developer",
+  "languages": ["Python", "Java", "JS"]
+  "tools":["intelliJ","vscode","figma"]
+}
+
+def introduce():
+  print(f"Hello, I'm {jiwon_profile['name']}.")
+```
+
+<h2>🛠 Tech Stack</h2>  
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -16,6 +31,12 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
   ---
+<h2>🚀 Projects  </h2>  
+🛒 Shopping Mall Admin Pag </br>
+💬 [chatting webApp] - auth&OAuth2 (security) , 게시판&회원 CRUD </br>
+
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiwon6978&show_icons=true&theme=radical)
 ---
